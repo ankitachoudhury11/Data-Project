@@ -1,4 +1,2 @@
-print("This file was created within RStudio")
-
-print("And now it lives on GitHub")
+mkjbgfvd,.bkn dv,.bn dfx,n dgx,bm n,ṁ 
 
